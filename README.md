@@ -12,6 +12,8 @@ Databel, a telecom provider, has been experiencing a high rate of customer churn
 - Data Analysis
 - Data Visualization & Storytelling
 
+![](https://github.com/CleverBrown/Databel-Customer-Churn-Analysis/blob/main/Customer%20Churn%20(2).png)
+
 ### Key Performance Indicators (KPIs)
 
 - Total Customers: 6,687
